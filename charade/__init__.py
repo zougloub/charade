@@ -48,7 +48,7 @@ def _description_of(path):
         return '%s: no result' % path
 
 
-def charade_console():
+def charade_cli():
     """
     Script which takes one or more file paths and reports on their detected
     encodings

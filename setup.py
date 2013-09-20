@@ -7,7 +7,7 @@ try:
     from setuptools import setup
     kw['entry_points'] = {
         'console_scripts' : [
-            'charade = charade:charade_console'
+            'charade = charade:charade_cli'
         ],
     }
     

@@ -11,7 +11,7 @@ Example::
 
 """
 
-from charade import charade_console
+from charade import charade_cli
 
 if __name__ == '__main__':
-    charade_console()
+    charade_cli()
